@@ -103,9 +103,10 @@ public class ServletVentes extends HttpServlet {
             request.setAttribute("pLesClients", lesClients);
             getServletContext().getRequestDispatcher("/vues/ventes/listerLesClients.jsp").forward(request, response);
         }
+         if(url.equals("/EquidaWeb18/ServletVentes/consulterUneVente"))
+        {  
         
-        
-        
+        }
     }
 
     /**
