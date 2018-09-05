@@ -1,3 +1,6 @@
 Class Cheval
-hjkhkjh
-jlkjlk
+public vois main ...
+public Cheval(){
+}
+
+ajout de la méthode calculAgeCheval
