@@ -107,6 +107,11 @@ public class ServletVentes extends HttpServlet {
         {  
         
         }
+		
+		if(url.equals("/EquidaWeb18/ServletVentes/rechercherUneVente"))
+        {  
+        
+        }
     }
 
     /**
