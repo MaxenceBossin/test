@@ -10,6 +10,7 @@ import java.util.ArrayList;
 /**
  *
  * @author Zakina
+ * Classe métier Client permettant de gérer les acheteurs et les vendeurs
  */
 public class Client {
     
