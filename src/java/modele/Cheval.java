@@ -1,5 +1,7 @@
 Class Cheval
-public vois main ...
+
+RaceCheval laRaceduCheval ;
+
 public Cheval(){
 }
 
