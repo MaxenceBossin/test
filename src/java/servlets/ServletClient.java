@@ -98,8 +98,7 @@ public class ServletClient extends HttpServlet {
 		
 		// methode consulter un client
 		 if(url.equals("/EquidaWeb18/ServletClient/consulterClient"))
-        {
-		}
+
     }
 
     /**
