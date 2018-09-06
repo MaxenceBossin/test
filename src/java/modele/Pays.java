@@ -43,5 +43,5 @@ public class Pays {
     }
     
     
-    
+    // ajout d'une methode de recherche pays courant
 }
