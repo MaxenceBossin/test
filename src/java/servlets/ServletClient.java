@@ -95,6 +95,11 @@ public class ServletClient extends HttpServlet {
             request.setAttribute("pLesCategVente", lesCategVentes);
             this.getServletContext().getRequestDispatcher("/vues/clientAjouter.jsp" ).forward( request, response );
         }
+		
+		// methode consulter un client
+		 if(url.equals("/EquidaWeb18/ServletClient/consulterClient"))
+        {
+		}
     }
 
     /**
