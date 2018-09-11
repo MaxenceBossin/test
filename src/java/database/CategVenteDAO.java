@@ -12,7 +12,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import modele.CategVente;
 /**
- *
+ * 11/09/2018
  * @author Zakina
  */
 public class CategVenteDAO {

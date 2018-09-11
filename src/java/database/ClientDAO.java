@@ -15,7 +15,7 @@ import modele.Client;
  *
  * @author Zakina
  * 23/06/2017
- * Classe faisant la liaison entre la table client et la classe Client
+ * Classe faisant la liaison entre la table Client et la classe Client
  */
 public class ClientDAO {
     
