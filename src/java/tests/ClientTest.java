@@ -20,7 +20,9 @@ public class ClientTest {
         unClient.setUnPays(new Pays("FRA", "FRANCE"));     
         System.out.println(unClient.getNom() + "  " + unClient.getUnPays().getNom());
         
-        
+        report.everything:
     }
     
 }
+#BOnsoIr
+Maxence Bozin
